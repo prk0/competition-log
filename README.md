@@ -10,7 +10,7 @@
 ## 2025
 | Protocol | Platform | H | M | Earnings | Rank | Report |
 | - | - | - | - | - | - | - |
-| Alchemix V3 | Cantina | 5 | 2 (1) | 2,244.38 | 4 | |
+| Alchemix V3 | Cantina | 5 | 2 (1) | 2,244.38 | 4 | [📄](/cantina/2025_05_alchemix.md) |
 | Mystic Finance | Cantina | 2 | 1 | 15.53 | 57 | |
 | Superform | Cantina | | 1 | 69.08 | 25 | |
 | Jigsaw Finance | Cantina | 1 | | 3.82 | 61 | |
