@@ -18,6 +18,6 @@
 | GTE Perps & Launchpad | Code4rena | 1 | 4 | 126.02 | 72 | [📄](/code4rena/2025_09_gte.md) |
 | Avon | Cantina | | 3 | 125.50 | 19 | |  
 | Megapot | Code4rena | 1 | 2 | 116.55 | 19 | [📄](/code4rena/2025_11_megapot.md) |
-| | | 11 | 13 | | | |
+| | | 11 | 13 | 2,819.83 | | |
 
 
