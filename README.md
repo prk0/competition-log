@@ -11,7 +11,7 @@
 | Protocol | Platform | H | M | Earnings | Rank | Report |
 | - | - | - | - | - | - | - |
 | Alchemix V3 | Cantina | 5 | 2 (1) | 2,244.38 | 4 | [📄](/cantina/2025_05_alchemix.md) |
-| Mystic Finance | Cantina | 2 | 1 | 15.53 | 57 | |
+| Mystic Finance | Cantina | 2 | 1 | 15.53 | 57 | [📄](/cantina/2025_05_mystic.md) |
 | Superform | Cantina | | 1 | 69.08 | 25 | [📄](/cantina/2025_06_superform.md) |
 | Jigsaw Finance | Cantina | 1 | | 3.82 | 61 | [📄](/cantina/2025_06_jigsaw.md) |
 | [Panoptic Hypovault](https://code4rena.com/audits/2025-06-panoptic-hypovault) | Code4rena | 1 |  | 118.95 | 11 | [📄](/code4rena/2025_07_panoptic.md) |
