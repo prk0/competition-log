@@ -14,7 +14,7 @@
 | Mystic Finance | Cantina | 2 | 1 | 15.53 | 57 | |
 | Superform | Cantina | | 1 | 69.08 | 25 | |
 | Jigsaw Finance | Cantina | 1 | | 3.82 | 61 | |
-| Panoptic Hypovault | Code4rena | 1 |  | 118.95 | 11 | [📄](/code4rena/2025_07_panoptic.md) |
+| [Panoptic Hypovault](https://code4rena.com/audits/2025-06-panoptic-hypovault) | Code4rena | 1 |  | 118.95 | 11 | [📄](/code4rena/2025_07_panoptic.md) |
 | GTE Perps & Launchpad | Code4rena | 1 | 4 | 126.02 | 72 | [📄](/code4rena/2025_09_gte.md) |
 | Avon | Cantina | | 3 | 125.50 | 19 | |  
 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Code4rena | 1 | 2 | 116.55 | 19 | [📄](/code4rena/2025_11_megapot.md) |
