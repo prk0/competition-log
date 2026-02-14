@@ -1,4 +1,13 @@
-# poolExposure1 is incorrectly initialized in computeNAV()
+# Panoptic Hypovault
+
+## Findings Summary
+
+| ID | Title | Duplicates |
+| - | - | - |
+| [H-01](#poolexposure1-is-incorrectly-initialized-in-computenav) | poolExposure1 is incorrectly intitialized in computeNAV() | 12 |
+
+
+## poolExposure1 is incorrectly initialized in computeNAV()
 
 ## Summary
 
