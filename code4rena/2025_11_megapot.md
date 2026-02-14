@@ -1,3 +1,12 @@
+# Megapot
+
+## Findings Summary
+
+| ID | Title | Duplicates | 
+| - | - | - |
+| [H-01](#arbitrary-calls-in-jackpotbridgemanager-claimwinnings-may-allow-theft-of-winning-nfts) | Arbitrary calls in JackpotBridgeManager::claimWinnings() may allow theft of winning NFTs | 11 |
+| [M-01](#modifying-ticketprice-mid-drawing-will-cause-issues-in-jackpotbridgemanager-buytickets) | Modifying ticketPrice mid-drawing will cause issues in JackpotBridgeManager::buyTickets() | 38 |
+
 ## Arbitrary calls in JackpotBridgeManager::claimWinnings() may allow theft of winning NFTs
 ## Vulnerability Detail
 
