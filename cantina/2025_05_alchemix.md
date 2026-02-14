@@ -1,3 +1,14 @@
+# Alchemix V3 
+
+## Findings Summary
+
+| ID | Title | Duplicates |
+| - | - | - |
+| [H-01](#feebonus-should-be-taken-from-debttoburn-but-it-is-taken-in-addition-to-debttoburn) | feeBonus should be taken from debtToBurn, but it is taken in addition to debtToBurn | 16 | 
+| [H-02](#alchemixv3forcerepay-does-not-send-liquidated-yield-tokens-to-transmuter) | AlchemistV3::_forceRepay() does not send liquidated yield tokens to transmuter | 98 |
+| [H-03](#feebonus-is-never-adjusted-to-correct-decimals-which-can-result-in-draining-the-fee-vault) | feeBonus is never adjusted to correct decimals which can result in draining the fee vault | 16 |
+
+
 ## feeBonus should be taken from debtToBurn, but it is taken in addition to debtToBurn
 
 ## Summary
