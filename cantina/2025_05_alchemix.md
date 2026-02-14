@@ -9,7 +9,7 @@
 | [H-03](#feebonus-is-never-adjusted-to-correct-decimals-which-can-result-in-draining-the-fee-vault) | feeBonus is never adjusted to correct decimals which can result in draining the fee vault | 16 |
 | [H-04](#alchemixv3burn-omits-fee-transfer-to-protocolfeereceiver) | AlchemistV3::burn() omits fee transfer to protocolFeeReceiver | 70 |
 | [H-05](#incorrect-fee-amount-is-sent-to-protocolfeereceiver-in-alchemixv3repay) | Incorrect fee amount is sent to protocolFeeReceiver in AlchemistV3::repay() | 160 |
-| [M-01](#base-fee-and-surplus-fee-are-handled-incorrectly-in-alchemixv3liquidate) | Base fee and surplus fee are handled incorrectly in AlchemistV3::liquidate() | 0 |
+| [M-01](#base-fee-and-surplus-fee-are-handled-incorrectly-in-alchemixv3-liquidate) | Base fee and surplus fee are handled incorrectly in AlchemistV3::liquidate() | 0 |
 | [M-02](#liquidations-can-be-dosed-by-front-running-with-repay) | Liquidations can be DoSed by front running with repay() | 1 |
 
 ## feeBonus should be taken from debtToBurn, but it is taken in addition to debtToBurn
